@@ -86,7 +86,7 @@ $ai_response = isset($data["choices"][0]["message"]["content"]) ? trim($data["ch
 header("Content-Type: application/json");
 echo json_encode([
     "response" => $ai_response,
-    "developer" => "@a_telegram_user"
+    "developer" => "@Sychox2006 On Telegram"
 ], JSON_PRETTY_PRINT);
 
 ?>
