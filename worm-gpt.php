@@ -1,6 +1,6 @@
 <?php
 
-$API_KEY = "MISTRAL API"; 
+$API_KEY = "V5mAClgeYZis8HanNkbM5jNEK5Fm07Zg"; 
 $API_URL = "https://api.mistral.ai/v1/chat/completions";
 
 
