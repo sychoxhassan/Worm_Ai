@@ -46,7 +46,7 @@ if (empty($prompt)) {
         <p class='blink'>Use this API to generate hacker-style responses!</p>
         <div class='info'>
             <p><strong>Usage:</strong> http:example.com/worm-gpt.php?prompt=Your_Message_Here</p>
-            <p><strong>Developer Telegram:</strong> <a href='https://t.me/a_telegram_user' style='color: #0f0;'>@a_telegram_user</a></p>
+            <p><strong>Developer Telegram:</strong> <a href='https://t.me/@Sychox2006' style='color: #0f0;'>@a_telegram_user</a></p>
         </div>
     </body>
     </html>";
